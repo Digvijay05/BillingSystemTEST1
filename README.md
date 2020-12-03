@@ -1,5 +1,5 @@
-# GUI-for-Hotel
-This is my first GUI project using python tkinter which display menu of hotel, takes order from customer and generates bill.
+# GUI-for-Laundry
+This is my first GUI project using python tkinter which display menu of Laundry, takes order from customer and generates bill.
 Menu is present in text files in 'Menu' folder and bills will be saved in text format in 'Bill Records' folder.
 
 GUI is created using Python Tkinter.
